@@ -186,7 +186,7 @@ appropriately transformed matrix and set `delta_beta_min` on that scale.
 
 > Istanbouli, M. (2026). *trifilter-cpg-biomarker-selection: permutational
 > tri-filter feature selection for methylation biomarkers.* GitHub repository,
-> https://github.com/meezo1402/trifilter_cpg_biomarker_selection
+> https://github.com/meezo1402/trifilter-cpg-biomarker-selection
 
 ## License
 
