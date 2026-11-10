@@ -1,0 +1,16 @@
+# generated data and results
+data/synthetic/
+results/*
+!results/.gitkeep
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Renviron
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*.swp
